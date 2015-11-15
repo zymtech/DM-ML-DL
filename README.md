@@ -1,3 +1,3 @@
 # DataMining
 
-data warehouse and data mining
+first year course of data warehouse and data mining
