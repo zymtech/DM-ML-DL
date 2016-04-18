@@ -1,3 +1,2 @@
-# DataMining
 
-first year course of data warehouse and data mining
+Basic Algorithms of Data Mining, Machine Learning and Deep Learning.
